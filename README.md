@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey, this is Rinku!
 
-<!--
-**Rinku694/Rinku694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Data Analyst | Supply Chain & Logistics Specialist | Process Improvement  
 
-Here are some ideas to get you started:
+## About Me  
+Hi! I'm a data-driven professional with a strong background in **logistics, supply chain, fleet management, and process improvement**. I specialize in using **data analytics** to optimize operations and drive business decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Certifications  
+- **Data Analysis** (Advanced Excel, SQL, Python, Power BI, Statistics)  
+
+## 🔹 Skills  
+- 📊 **Data Cleaning & Visualization** (Power BI, Excel)  
+- 🔍 **Process Audits & Incident Analysis**  
+- 📈 **Dashboard Development & Reporting**  
+- 🐍 **SQL Querying & Python for Data Analysis**  
+
+## 🔹 Achievements  
+✅ Optimized operational processes using **data-driven insights**  
+✅ Developed **Power BI dashboards** for trend analysis & reporting  
+✅ Conducted **risk assessments & process audits** to enhance efficiency  
+✅ Automated Excel reports to improve decision-making  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rinku-yadav1)
+
+
